@@ -33,10 +33,58 @@ const map = new Map({ // create Map object
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //////////////////////////////////////////
 // 2. Add GeoJSON
 //
-// source: https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-regional-trails-land
+// GeoSpatial Commons: https://gisdata.mn.gov/dataset/us-mn-state-metc-trans-regional-trails-land
 //////////////////////////////////////////
 
 // const mnTrails = new VectorLayer({ // new Layer declared as variable
@@ -59,6 +107,45 @@ const map = new Map({ // create Map object
 //     zoom: 9
 //   })
 // });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -98,6 +185,38 @@ const map = new Map({ // create Map object
 //     zoom: 9
 //   })
 // });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
